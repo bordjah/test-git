@@ -1,3 +1,4 @@
 ici mon index
 ajouter une barre de navigation
 lien vers le panier
+autre correection de beug
